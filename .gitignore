@@ -14,3 +14,6 @@ _static.html
 
 # logs
 *.log
+
+# superseded by trailer-seedance2.mp4; local copy was file-locked at rename time
+assets/video/trailer.mp4
