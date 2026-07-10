@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
+
+# verification scaffolding (never committed)
+_debug.html
+_meshcmp.html
+_static.html
+
+# logs
+*.log
